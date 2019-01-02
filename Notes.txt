@@ -3,3 +3,38 @@ Metric learning
         - be about learning a similarity function which can use to compare how similar two inputs are.
         ++ a useful technique when the input space is large and it’s not feasible to have a sample from every class to train a classifier
         
+
+Siamese network architecture
+
+
+Contrastive loss 
+
+
+
+
+Triplet loss.
+
+First, generating triplets is an O(n³) operation — in other words, it is infeasible to generate all possible triplets for training. If we cannot generate all triplets for training, maybe we can just randomly generate a subset of triplets instead?
+
+triplet loss is extremely sensitive to the training samples and uniform sampling usually leads to failed training
+
+Most of them center around the idea of hard negative mining — that is, we need to generate triplets that violate the margin requirements to provide meaningful signals to help the network learn. If most of the triplets during training produce zero loss, the network will not be able to meaningfully decrease its loss. 
+
+These papers suggested instead of generating triplets, we learn an embedding for each class (speaker in my case) and use the learnt embedding as a proxy for triplets as part of the training. In other words, we can train end to end without the computationally expensive step of resampling triplets after each network update.
+
+
+
+
+https://towardsdatascience.com/hyper-parameters-in-action-part-ii-weight-initializers-35aee1a28404
+
+
+
+
+
+http://cs231n.github.io/neural-networks-3/
+
+
+
+
+ 
+ 
