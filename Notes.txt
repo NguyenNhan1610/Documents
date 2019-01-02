@@ -1,1 +1,5 @@
-
+Metric learning
+        - be about learning a function that translates an input to another hyperspace, commonly referred to as latent space, where one can compare different instances on some metrics, usually semantic similarity.
+        - be about learning a similarity function which can use to compare how similar two inputs are.
+        ++ a useful technique when the input space is large and it’s not feasible to have a sample from every class to train a classifier
+        
