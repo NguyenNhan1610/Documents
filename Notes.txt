@@ -33,7 +33,17 @@ https://towardsdatascience.com/hyper-parameters-in-action-part-ii-weight-initial
 
 http://cs231n.github.io/neural-networks-3/
 
+Building a Speaker Identification System from Scratch with Deep Learning
+https://medium.com/analytics-vidhya/building-a-speaker-identification-system-from-scratch-with-deep-learning-f4c4aa558a56
 
+Training a Speaker Embedding from Scratch with Triplet Learning
+https://blog.goodaudience.com/training-a-speaker-embedding-from-scratch-24baf990ccf
+
+Hyper-parameters in Action! Introducing DeepReplay
+https://towardsdatascience.com/hyper-parameters-in-action-introducing-deepreplay-31132a7b9631
+
+Deep Learning Best Practices
+https://medium.com/usf-msds/deep-learning-best-practices-1-weight-initialization-14e5c0295b94
 
 
  
