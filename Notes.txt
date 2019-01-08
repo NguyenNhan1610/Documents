@@ -45,6 +45,6 @@ https://towardsdatascience.com/hyper-parameters-in-action-introducing-deepreplay
 Deep Learning Best Practices
 https://medium.com/usf-msds/deep-learning-best-practices-1-weight-initialization-14e5c0295b94
 
-
+http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf
  
  
