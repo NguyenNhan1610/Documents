@@ -47,4 +47,4 @@ https://medium.com/usf-msds/deep-learning-best-practices-1-weight-initialization
 
 http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf
  
- 
+ https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/
